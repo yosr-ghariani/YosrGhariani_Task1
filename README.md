@@ -69,6 +69,11 @@ Run the following command to install all required packages:
 pip install -r requirements.txt
 ```
 
+Run the following command to run the script:
+```bash
+python Blink_Detection.py
+```
+
 ## Outcome
 
 Below is an example output to demonstrate the eye blink detection and the ever-changing EAR value: 
