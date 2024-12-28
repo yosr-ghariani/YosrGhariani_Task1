@@ -27,7 +27,7 @@ foobar.pluralize('goose')
 foobar.singularize('phenomena')
 ```
 
-![image](https://github.com/user-attachments/assets/647b9a59-15d0-44c7-8b6b-51a360041f50)
+![Mediapipe eyes landmarks](https://github.com/user-attachments/assets/647b9a59-15d0-44c7-8b6b-51a360041f50)
 
 
 ## Contributing
