@@ -83,7 +83,7 @@ Below is an example output to demonstrate the eye blink detection and the ever-c
 
 To conclude, this Python program effectively detects and counts eye blinks in real-time using the Eye Aspect Ratio (EAR) and facial landmarks provided by MediaPipe. However, there is room for improvement:  
 
-- The EAR threshold can sometimes lead to false positives, particularly if it is set too high. A more adaptive thresholding mechanism or calibration step could enhance accuracy.  
+- The EAR threshold can sometimes lead to false positives, as it is set somewhat high. A more adaptive thresholding mechanism step could enhance accuracy.  
 - Using additional or more detailed landmarks around the eyes might help refine the EAR calculation and better capture subtle differences in eye closure.  
 - Improving the robustness of blink detection, especially in challenging conditions like different head angles.  
 
