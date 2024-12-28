@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/647b9a59-15d0-44c7-8b6b-51a360041f50)# YosrGhariani_Task1
+# YosrGhariani_Task1
 This computer vision project detects and calculates eye blinking using the landmarks of the library Mediapipe
 # Foobar
 
@@ -27,7 +27,7 @@ foobar.pluralize('goose')
 foobar.singularize('phenomena')
 ```
 
-![Mediapipe Face landmarks](https://storage.googleapis.com/mediapipe-assets/documentation/mediapipe_face_landmark_fullsize.png)
+![Mediapipe Face landmarks]((https://github.com/user-attachments/assets/647b9a59-15d0-44c7-8b6b-51a360041f50))
 
 
 ## Contributing
