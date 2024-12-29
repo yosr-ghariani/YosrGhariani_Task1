@@ -3,7 +3,7 @@
 # *Blink Detection Python Script* 
 This computer vision project detects and calculates eye blinks using facial landmarks of the MediaPipe library.
 
----
+--- 
 
 ## **Objective**  
 The objective of this project is to develop a Python program that detects eye blinks in real-time using a webcam. The program processes the video stream and displays the following information:  
