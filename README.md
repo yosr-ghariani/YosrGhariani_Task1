@@ -28,12 +28,10 @@ Here are the sources that inspired the workflow:
 
 - **[MediaPipe Face Landmarker - FaceMesh](https://ai.google.dev/edge/mediapipe/solutions/vision/face_landmarker):**  MediaPipe offers an efficient and lightweight solution for facial landmark detection, specifically the FaceMesh model, which we used for extracting eye landmarks. This model provided smoother integration with OpenCV.
 
----
 
 ### **3. Webcam Detection**  
 Initially, we explored webcam detection using Google Colab, following a [tutorial](https://www.youtube.com/watch?v=YjWh7QvVH60) that integrated JSON and the Haar Cascade Classifier. While functional, it was challenging to adapt this approach for landmark-based EAR calculations. Consequently, we shifted to local webcam detection using OpenCV for better control and simplicity.  
 
----
 
 ### **4. EAR (Eye Aspect Ratio)**  
 The **[Eye Aspect Ratio (EAR)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9044337/)** is a mathematical formula used to estimate the openness of the eye. By tracking specific vertical and horizontal distances between the eye's landmarks, the EAR helps us determine if the eyes are open or closed.  
@@ -77,10 +75,14 @@ Run the following command to run the script:
 python Blink_Detection.py
 ```
 
+---
+
 ## Outcome
 
 Below is an example output to demonstrate the eye blink detection and the ever-changing EAR value: 
 ![example screenshot](https://github.com/user-attachments/assets/fcad2456-4f8b-4dfd-b280-fa12a656016d )
+
+---
 
 ## Perspectives
 
