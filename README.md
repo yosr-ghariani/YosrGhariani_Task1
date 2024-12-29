@@ -60,9 +60,12 @@ The **[Eye Aspect Ratio (EAR)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9044337/
 ---
 
 ## **Setup**  
-To set up the code, install the following dependencies (OpenCV, NumPy, and MediaPipe).  
+To set up the project, you can clone the repository using the following command:
+```bash
+git clone https://github.com/yosr-ghariani/YosrGhariani_Task1
+```
 
-Please note that [MediaPipe Python PyPI](https://mediapipe.readthedocs.io/en/latest/getting_started/troubleshooting.html#:~:text=after%20running%20pip%20install%20mediapipe,x86_64%20macOS%2010.15%2B) officially supports Python versions 3.7 to 3.10 on 64-bit systems.  
+Then, you can install the following dependencies (OpenCV, NumPy, and MediaPipe).  Please note that [MediaPipe Python PyPI](https://mediapipe.readthedocs.io/en/latest/getting_started/troubleshooting.html#:~:text=after%20running%20pip%20install%20mediapipe,x86_64%20macOS%2010.15%2B) officially supports Python versions 3.7 to 3.10 on 64-bit systems.  
 
 Run the following command to install all required packages:  
 ```bash
